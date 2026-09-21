@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+poisson_mesh_convergence.pdf
+poisson_mesh_convergence.png
+poisson_filter_fidelity.pdf
+poisson_filter_fidelity.png
+mesh_cutoff_fidelity.pdf
+mesh_cutoff_fidelity.png
